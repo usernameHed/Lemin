@@ -9,3 +9,6 @@ project realized with a 4 student group:
 - Myself - Ugo Belfiore - Graphics and algorithm
 
 ![alt tag](https://raw.githubusercontent.com/usernameHed/Lemin/master/Lemin.gif)
+
+how to use it ?
+./lem_in < test/test_algo [| ./lem_in_graph]
