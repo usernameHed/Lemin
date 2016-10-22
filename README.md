@@ -12,3 +12,5 @@ project realized with a 4 student group:
 
 how to use it ?
 ./lem_in < test/test_algo [| ./lem_in_graph]
+
+Youtube: https://www.youtube.com/watch?v=H588PuFhtCs
